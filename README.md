@@ -1,4 +1,4 @@
-# Ultimate Vocal Remover GUI v5.6 - OpenCL Branch
+# Ultimate Vocal Remover GUI v5.6 - DirectML Branch
 <img src="https://raw.githubusercontent.com/Anjok07/ultimatevocalremovergui/master/gui_data/img/UVR_v5.6.png?raw=true" />
 
 [![Release](https://img.shields.io/github/release/anjok07/ultimatevocalremovergui.svg)](https://github.com/anjok07/ultimatevocalremovergui/releases/latest)
